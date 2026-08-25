@@ -47,4 +47,4 @@ Sales as of 8/24/26
 
 Store page link
 
-[Google](https://store.steampowered.com/app/3256900/Sub0ptimal/)
+[Steam store link](https://store.steampowered.com/app/3256900/Sub0ptimal/)
