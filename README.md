@@ -73,7 +73,7 @@ As project lead, I was in charge of scope, building the game out in Unity, what 
 
 
 
-### Stats and links
+## Stats and links
 
 Sales as of 8/24/26
 <img width="392" height="29" alt="image" src="https://github.com/user-attachments/assets/7200bd72-81cd-44f7-8330-d84bf7c20787" />
