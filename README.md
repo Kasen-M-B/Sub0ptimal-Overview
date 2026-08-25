@@ -14,9 +14,13 @@ I saw online creators making games and thought it looked very fun. My sophomore 
 <br>
 <img width="2157" height="1179" alt="image" src="https://github.com/user-attachments/assets/773e2f0d-53ef-46c0-b376-f120586dd677" />
 <br>
+<br>
+<br>
 At this point I started to mess around with post processing and skyboxes. I made a new map for the new movement with more obstacles. I added basic combat. This needed a couple systems that include health, guns, shooting, reloading, swapping guns, and enemies. I added a basic capsule shape for the moving enemy and a low poly turret model my friend made for the stationary enemy. I later added a low poly humanoid model I found on Sketchfab for the moving enemy. I really started to clean up the game at this point.
 <br>
 <img width="2223" height="2160" alt="image" src="https://github.com/user-attachments/assets/894246e5-c4cc-44cc-be0c-19ed19d8a463" />
+<br>
+<br>
 <br>
 I made a main menu And a pause menu. At this point I had a good foundation so I made a endless game mode to test out the systems. I also started to make a campaign, which is what took most of the 3 year development cycle. I will not spoil it here so play it for yourself, it's free! I started to make more professional videos and screenshots at this point it was ready for people to see.
 <br>
@@ -30,7 +34,7 @@ I made a main menu And a pause menu. At this point I had a good foundation so I 
 - Sound design
 - Video editing
 - level design
-- <br>
+<br>
 ### Stats and links
 Sales as of 8/24/26
 <img width="392" height="29" alt="image" src="https://github.com/user-attachments/assets/7200bd72-81cd-44f7-8330-d84bf7c20787" />
