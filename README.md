@@ -30,7 +30,7 @@ I made a main menu And a pause menu. At this point I had a good foundation so I 
 
 <img width="1920" height="1080" alt="ScreenShot_3" src="https://github.com/user-attachments/assets/870e8781-587b-4eb1-9d30-ca39632bc6bf" />
 
-### Team
+### What I learned
 
 - Unity
 - C#
