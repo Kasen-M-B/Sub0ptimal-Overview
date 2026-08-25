@@ -54,6 +54,23 @@ Main menu and screenshots:
 - Video editing
 - Level design
 
+### Technical highlights
+
+#### Weapon system
+I implemented a modular physics based gun system. It uses prefabs for bullets instead of a standard raycast solution.
+
+#### Interaction
+Used spherecast for cleaner pickup feel. Used a interface for on screen hint and the method that contains the logic.
+
+#### Movement
+Satisfying movement with each ability adding onto the previous. Walking, sprinting, crouching, jumping, grappling, and wall running.
+
+#### Enemies
+Modular system for moving and stationary enemies. This used the ai agent built into unity for pathfinding.
+
+#### Project management
+As project lead, I was in charge of scope, building the game out in Unity, what goes into the final story, and other various tasks.
+
 ### Stats and links
 
 Sales as of 8/24/26
