@@ -4,6 +4,8 @@
 
 Independent 3D video game made in Unity. Worked with a team of five for part of the development process with a 3 year development time. I was project lead. 22,000+ copies distributed as of 8/22/26
 
+<img width="1232" height="706" alt="Main Capsule" src="https://github.com/user-attachments/assets/c536f6de-8f8e-46b8-8132-73005b83a0f4" />
+
 ### Team
 
 - Kasen Benton - project lead, Programmer
