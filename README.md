@@ -33,7 +33,7 @@ I made a main menu And a pause menu. At this point I had a good foundation so I 
 <br>
 <br>
 <br>
-### Team
+### Skills and tools
 - Unity
 - C#
 - Project management
@@ -47,5 +47,5 @@ Sales as of 8/24/26
 <img width="392" height="29" alt="image" src="https://github.com/user-attachments/assets/7200bd72-81cd-44f7-8330-d84bf7c20787" />
 <br>
 Store page link
-[Google](https://store.steampowered.com/app/3256900/Sub0ptimal/)
+[Steam Store Page](https://store.steampowered.com/app/3256900/Sub0ptimal/)
 
