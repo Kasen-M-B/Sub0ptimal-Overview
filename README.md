@@ -30,7 +30,10 @@ I made a main menu And a pause menu. At this point I had a good foundation so I 
 <img width="1916" height="1078" alt="image" src="https://github.com/user-attachments/assets/113ba204-1c61-4377-a187-d66a87249ff0" />
 <img width="1920" height="1080" alt="ScreenShot_2" src="https://github.com/user-attachments/assets/a14cdec8-0dac-4647-bf79-8f2c0427f5b4" />
 <img width="1920" height="1080" alt="ScreenShot_3" src="https://github.com/user-attachments/assets/870e8781-587b-4eb1-9d30-ca39632bc6bf" />
-### What I learned
+<br>
+<br>
+<br>
+### Team
 - Unity
 - C#
 - Project management
