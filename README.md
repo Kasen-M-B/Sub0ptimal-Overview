@@ -10,6 +10,8 @@ Independent 3D video game made in Unity. Worked with a team of five for part of 
 
 - Kasen Benton - project lead, Programmer
 - Ryan Shelton - conceptualization, 3d modeling
+
+## Extra help
 - Memphis parker - web development
 - Dom perron - conceptualization
 - Hunter Walker - Marketing, conceptualization
