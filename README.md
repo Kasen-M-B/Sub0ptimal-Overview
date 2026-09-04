@@ -6,12 +6,12 @@ Independent 3D video game made in Unity. Worked with a team of five for part of 
 
 <img width="1232" height="706" alt="Main Capsule" src="https://github.com/user-attachments/assets/c536f6de-8f8e-46b8-8132-73005b83a0f4" />
 
-### Team
+## Team
 
 - Kasen Benton - project lead, Programmer
 - Ryan Shelton - conceptualization, 3d modeling
 
-## Extra help
+### Extra help
 - Memphis parker - web development
 - Dom perron - conceptualization
 - Hunter Walker - Marketing, conceptualization
